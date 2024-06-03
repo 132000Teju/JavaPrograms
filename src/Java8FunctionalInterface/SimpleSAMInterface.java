@@ -34,3 +34,4 @@ class imp2 implements SAMTest{
 }
 public class SimpleSAMInterface {
 }
+
